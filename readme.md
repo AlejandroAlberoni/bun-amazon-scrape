@@ -1,3 +1,6 @@
+
+<img width="1900" height="996" alt="AmazonScraper" src="https://github.com/user-attachments/assets/8dc2022a-c4cb-401d-b06b-5aa490472623" />
+
 ## Test Project Repository
 
 This is a full stack project for a trainee test. There are two main folders, in which you have to run each one to use the functionality.
